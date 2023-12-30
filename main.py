@@ -28,7 +28,7 @@ elif operator == '-':
     result= num1 - num2
 elif operator == '*':
     # do multiplication here
-    result = num2 * num1
+    result = num1 * num2
 elif operator == '/':
     # do division
 else:
