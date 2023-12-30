@@ -28,8 +28,11 @@ elif operator == '-':
     result= num1 - num2
 elif operator == '*':
     # do multiplication here
+    result = num1 * num2
 elif operator == '/':
     # do division
+    result = num1 / num2
+    
 else:
     print("Wrong operator")
 
