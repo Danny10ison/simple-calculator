@@ -30,6 +30,8 @@ elif operator == '*':
     # do multiplication here
 elif operator == '/':
     # do division
+else:
+    print("Wrong operator")
 
 
 # print("num1")
