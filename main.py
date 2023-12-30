@@ -12,7 +12,7 @@ More explanation
 msg = "Simple calculator"
 
 # check the type of the variable
-# print(type(msg))
+# print(type())
 print(msg)
 
 num1 = int(input("Enter the first number: "))
