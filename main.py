@@ -25,7 +25,7 @@ result = 0
 if operator == '+':
     # do addition here
 elif operator == '-':
-    # do subtraction here
+    result= num1 - num2
 elif operator == '*':
     # do multiplication here
 elif operator == '/':
